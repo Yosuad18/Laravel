@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Laravel  | Ecuación Cuadrática</title>
+</head>
+<body>
+    <h1>"La formula cuadratica es: -$b +- sqrt($b^2 - 4*$a*$c) / (2*$a)
+        RESULTADOS: La solucion x1= $ecu1_total y la solucion x2= $ecu2_total";</h1>
+</body>
+</html>

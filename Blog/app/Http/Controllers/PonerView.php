@@ -4,7 +4,7 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 
-class PonerNombre extends Controller
+class PonerView extends Controller
 {
     public function __invoke()
     {
